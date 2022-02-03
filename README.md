@@ -8,18 +8,18 @@ GUI 계산기를 만들었습니다. 포인터를 조작하여 네모칸을 누�
 # 2. 프로젝트 실행방법
 1. Visual Studio 2022 버전을 설치합니다.
 
-2. 
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEEYAt%2FbtrsrUd2mT7%2F0W0SAZbaWLOYRaYo5b20xk%2Fimg.jpg"  width="700" height="450">
+2.
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FbEEYAt%2FbtrsrUd2mT7%2F0W0SAZbaWLOYRaYo5b20xk%2Fimg.jpg)
 
 Clone a repository를 누릅니다.
 
 3.
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fm0Ejc%2FbtrslWDXfRg%2Fa54Q36o0s4FdzkSUeJapwK%2Fimg.jpg" width="700" height="450">
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fm0Ejc%2FbtrslWDXfRg%2Fa54Q36o0s4FdzkSUeJapwK%2Fimg.jpg)
 
 Repository location에 https://github.com/psbnq/Cpp-Calculatior 를 입력하고, clone을 누릅니다.
 
 4.
-<img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F2oQLj%2FbtrssvdYdq5%2FPKKyesTTmv6KueQ7kAkysK%2Fimg.png" width="700" height="450">
+![](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F2oQLj%2FbtrssvdYdq5%2FPKKyesTTmv6KueQ7kAkysK%2Fimg.png)
 
 실행 후 다음과 같은 화면이 나오기 전까지 기다리십시오. 
 
