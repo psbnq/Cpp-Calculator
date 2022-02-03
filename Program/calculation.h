@@ -141,4 +141,4 @@ void calculate() {
 	}
 	res = value.top();
 	clear_flag = true;
-}
+} 
