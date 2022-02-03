@@ -43,4 +43,12 @@ Repository location에 https://github.com/psbnq/Cpp-Calculatior 를 입력하고
 
 |키|기능|
 |:---:|:---:|
-|
+|A|더하기(ADD)|
+|D|나누기(DIVIDE)|
+|S|빼기(SUBTRACT)|
+|M|곱하기(MULTIPLY)|
+|1~9|숫자입력|
+|P|소수점(DECIMAL POINT)|
+|ENTER|결과값 리턴|
+|BACKSPACE|표현식 한자리 지우기|
+|CLEAR|표현식 초기화|
