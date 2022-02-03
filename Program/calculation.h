@@ -86,11 +86,11 @@ void calculate() {
 				else if (voexp[i] == '(' && voexp[i+1] == 'v' && voexp[i+2] == ')') {
 					string temp;
 					for (int j = 0; j < i; j++) {
-						temp += voexp[i];
+						temp += voexp[j];
 					}
 					temp += 'v';
 					for (int j = i + 3; j < voexp.size(); j++) {
-						temp += voexp[i];
+						temp += voexp[j];
 					}
 					voexp = temp;
 				}
@@ -99,6 +99,7 @@ void calculate() {
 	}
 	if (!(voexp.size() == 1 && voexp[0] == 'v')) {
 		input_error();
+	
 		return;
 	}
 	while (!op.empty()) {
