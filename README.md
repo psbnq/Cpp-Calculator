@@ -1,7 +1,7 @@
 # Cpp-Calculatior
 
 # 1. 프로젝트 소개
-![계산기](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2F5Lvjv%2FbtrsnofTiO6%2FUYmb3cmMFM5S75MTQOLfdk%2Fimg.png)
+![계산기](https://blog.kakaocdn.net/dn/qG7Js/btrsrmhEfEj/BMpSJzPMcvootvkro59KYk/img.gif)
 
 GUI 계산기를 만들었습니다. 포인터를 조작하여 네모칸을 누르고 입력할 수도 있고 키보드로 필요한 숫자 및 연산을 바로 입력할 수도 있습니다. 또한 유효하지 않은 계산식을 입력할 경우 화면에 오류를 출력하고 입력했던 내용은 초기화됩니다.
 
