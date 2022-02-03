@@ -83,7 +83,7 @@ void calculate() {
 					}
 					voexp = temp;
 				}
-				else if (voexp[i] == '(' && voexp[i] == 'v' && voexp[i] == ')') {
+				else if (voexp[i] == '(' && voexp[i+1] == 'v' && voexp[i+2] == ')') {
 					string temp;
 					for (int j = 0; j < i; j++) {
 						temp += voexp[i];
