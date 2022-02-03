@@ -54,3 +54,4 @@ Repository location에 https://github.com/psbnq/Cpp-Calculatior 를 입력하고
 |ENTER|결과값 리턴|
 |BACKSPACE|표현식 한자리 지우기|
 |CLEAR|표현식 초기화|
+|ESC|프로그램 종료|
