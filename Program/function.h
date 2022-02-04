@@ -31,19 +31,11 @@ bool isNum(string& s) {
   return true;
 }
 
-bool include_operation(string& s) {
-  for (auto x : s) {
-    if (!isNum(x)) return true;
-  }
-  return false;
-}
-
 string ctos(char c) {
   string temp;
   temp += c;
   return temp;
 }
-
 
 double stod(string& s) {
   string temp1, temp2;
