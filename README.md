@@ -25,6 +25,7 @@ Repository location에 https://github.com/psbnq/Cpp-Calculatior 를 입력하고
 실행 후 다음과 같은 화면이 나오기 전까지 기다리십시오. 
 
 이제 main.cpp에서 ctrl + F5를 누르면 계산기 어플리케이션을 실행할 수 있습니다.
+이러한 설치가 귀찮으시다면, exefile 디렉토리의 어플리케이션을 다운받으셔도 됩니다. x86과 x86-64(AMD)버전의 OS를 지원합니다.
 
 ## 3. 사용방법
 
