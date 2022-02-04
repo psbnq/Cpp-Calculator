@@ -38,8 +38,6 @@ bool include_operation(string& s) {
   return false;
 }
 
-using namespace std;
-
 string ctos(char c) {
   string temp;
   temp += c;
